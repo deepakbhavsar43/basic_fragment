@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="userdb-journal" type="Native" />
+      <mapping pattern="userdb" type="SQL" />
+    </extensionMap>
+  </component>
+</application>
